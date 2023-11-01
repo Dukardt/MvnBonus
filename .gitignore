@@ -12,7 +12,7 @@ target/
 *.iws
 *.iml
 *.ipr
-
+.idea/
 
 
 
@@ -32,15 +32,17 @@ target/
 /nbdist/
 /.nb-gradle/
 build/
+.idea/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
 ### VS Code ###
 .vscode/
+.idea/
 
 ### Mac OS ###
 .DS_Store
-.src/main/java/ru/netology/javaqa/Main.java/
+.idea/
 
 ### Package Files ###
 *.jar
