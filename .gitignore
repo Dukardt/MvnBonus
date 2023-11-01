@@ -51,5 +51,5 @@ build/
 ### Node ###
 node_modules/
 
-/.idea
-/src/main/java/ru/netology/javaqa/Main.java
+/.idea/
+.src/main/java/ru/netology/javaqa/Main.java/
