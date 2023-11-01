@@ -11,6 +11,8 @@ target/
 *.iws
 *.iml
 *.ipr
+/.idea
+.src/main/java/ru/netology/javaqa/Main.java
 
 ### Eclipse ###
 .apt_generated
