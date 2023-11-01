@@ -11,7 +11,7 @@ target/
 *.iws
 *.iml
 *.ipr
-/.idea
+/.idea/
 
 
 
@@ -39,7 +39,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
-/.idea/
 .src/main/java/ru/netology/javaqa/Main.java/
 
 ### Package Files ###
